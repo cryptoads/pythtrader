@@ -1,0 +1,191 @@
+-- Order Book Opened ---
+-- Order Book Opened ---
+-- Order Book Opened ---
+-- GDAX Websocket Opened ---
+-- Order Book Opened ---
+-- Order Book Opened ---
+-- GDAX Websocket Opened ---
+-- Order Book Opened ---
+-- GDAX Websocket Opened ---
+[HEARTBEAT] 2017-10-21 20:25:22.158000+00:00 22343576
+Candlestick Closed!
+[CANDLESTICK 1] Time: 2017-10-21 20:24:00+00:00 Open: 6099.94 High: 6100 Low: 6099.94 Close: 6100 Vol: 1.3532590099999997
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:25:23.159000+00:00 22343576
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:25:24.159000+00:00 22343576
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:25:25.159000+00:00 22343576
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[TRADE] Time: 2017-10-21 20:25:26.036000+00:00 Price: 6100.000000 Vol: 0.000010
+[CANDLESTICK 1] Time: 2017-10-21 20:25:00+00:00 Open: 6100.0 High: 6100.0 Low: 6100.0 Close: 6100.0 Vol: 9.81e-06
+[INDICATORS 1] Periods: 401 MACD_DIFF: -0.361732 MACD_HIST: 0.068668 MFI: 76.912143
+Traceback (most recent call last):
+  File "gdax-trader.py", line 88, in <module>
+    interface.update_orders(trade_engine)
+  File "C:\Users\Chris\Documents\pythtrader\curses_interface.py", line 63, in update_orders
+    (fill.get('side').upper(), fill.get('price'),
+AttributeError: 'str' object has no attribute 'get'
+
+-- Order Book Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Opened ---
+-- Order Book Opened ---
+[HEARTBEAT] 2017-10-21 20:25:37.174000+00:00 22343604
+Candlestick Closed!
+[CANDLESTICK 1] Time: 2017-10-21 20:24:00+00:00 Open: 6099.94 High: 6100 Low: 6099.94 Close: 6100 Vol: 1.3532590099999997
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:25:38.174000+00:00 22343604
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[TRADE] Time: 2017-10-21 20:25:38.758000+00:00 Price: 6101.000000 Vol: 0.135464
+[CANDLESTICK 1] Time: 2017-10-21 20:25:00+00:00 Open: 6101.0 High: 6101.0 Low: 6101.0 Close: 6101.0 Vol: 0.13546361
+[INDICATORS 1] Periods: 401 MACD_DIFF: -0.285880 MACD_HIST: 0.144520 MFI: 76.937889
+Traceback (most recent call last):
+  File "gdax-trader.py", line 88, in <module>
+    interface.update_orders(trade_engine)
+  File "C:\Users\Chris\Documents\pythtrader\curses_interface.py", line 63, in update_orders
+    (fill.get('side').upper(), fill.get('price'),
+AttributeError: 'str' object has no attribute 'get'
+
+-- Order Book Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Opened ---
+-- Order Book Opened ---
+[TRADE] Time: 2017-10-21 20:25:51.067000+00:00 Price: 6101.920000 Vol: 0.020000
+[CANDLESTICK 1] Time: 2017-10-21 20:25:00+00:00 Open: 6100 High: 6101.92 Low: 6100 Close: 6101.92 Vol: 3.63247348
+[INDICATORS 1] Periods: 400 MACD_DIFF: -0.196237 MACD_HIST: 0.234163 MFI: 77.944736
+Traceback (most recent call last):
+  File "gdax-trader.py", line 88, in <module>
+    interface.update_orders(trade_engine)
+  File "C:\Users\Chris\Documents\pythtrader\curses_interface.py", line 63, in update_orders
+    (fill.get('side').upper(), fill.get('price'),
+AttributeError: 'str' object has no attribute 'get'
+
+-- Order Book Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Opened ---
+-- Order Book Opened ---
+[HEARTBEAT] 2017-10-21 20:26:03.182000+00:00 22343626
+Candlestick Closed!
+[CANDLESTICK 1] Time: 2017-10-21 20:25:00+00:00 Open: 6100 High: 6100 Low: 6100 Close: 6100 Vol: 3.61247348
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:04.182000+00:00 22343626
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:05.183000+00:00 22343626
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:06.183000+00:00 22343626
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:07.183000+00:00 22343626
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[TRADE] Time: 2017-10-21 20:26:07.730000+00:00 Price: 6105.000000 Vol: 0.000004
+[CANDLESTICK 1] Time: 2017-10-21 20:26:00+00:00 Open: 6105.0 High: 6105.0 Low: 6105.0 Close: 6105.0 Vol: 3.72e-06
+[INDICATORS 1] Periods: 401 MACD_DIFF: 0.052551 MACD_HIST: 0.121220 MFI: 75.698716
+Traceback (most recent call last):
+  File "gdax-trader.py", line 88, in <module>
+    interface.update_orders(trade_engine)
+  File "C:\Users\Chris\Documents\pythtrader\curses_interface.py", line 63, in update_orders
+    (fill.get('side').upper(), fill.get('price'),
+AttributeError: 'str' object has no attribute 'get'
+
+-- Order Book Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Opened ---
+-- Order Book Opened ---
+[HEARTBEAT] 2017-10-21 20:26:20.186000+00:00 22343655
+Candlestick Closed!
+[CANDLESTICK 1] Time: 2017-10-21 20:25:00+00:00 Open: 6100 High: 6100 Low: 6100 Close: 6100 Vol: 3.61247348
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:21.187000+00:00 22343655
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[TRADE] Time: 2017-10-21 20:26:22.023000+00:00 Price: 6111.110000 Vol: 0.000002
+[CANDLESTICK 1] Time: 2017-10-21 20:26:00+00:00 Open: 6111.11 High: 6111.11 Low: 6111.11 Close: 6111.11 Vol: 1.63e-06
+[INDICATORS 1] Periods: 401 MACD_DIFF: 0.579204 MACD_HIST: 0.647873 MFI: 75.698715
+Traceback (most recent call last):
+  File "gdax-trader.py", line 88, in <module>
+    interface.update_orders(trade_engine)
+  File "C:\Users\Chris\Documents\pythtrader\curses_interface.py", line 63, in update_orders
+    (fill.get('side').upper(), fill.get('price'),
+AttributeError: 'str' object has no attribute 'get'
+
+-- Order Book Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Opened ---
+-- Order Book Opened ---
+[HEARTBEAT] 2017-10-21 20:26:33.189000+00:00 22343660
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:34.190000+00:00 22343660
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:35.190000+00:00 22343660
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:36.190000+00:00 22343660
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[TRADE] Time: 2017-10-21 20:26:36.314000+00:00 Price: 6111.100000 Vol: 0.014453
+[CANDLESTICK 1] Time: 2017-10-21 20:26:00+00:00 Open: 6101.92 High: 6111.1 Low: 6101.92 Close: 6111.1 Vol: 2.3747721699999995
+[INDICATORS 1] Periods: 400 MACD_DIFF: 0.503756 MACD_HIST: 0.737920 MFI: 77.972118
+Traceback (most recent call last):
+  File "gdax-trader.py", line 88, in <module>
+    interface.update_orders(trade_engine)
+  File "C:\Users\Chris\Documents\pythtrader\curses_interface.py", line 63, in update_orders
+    (fill.get('side').upper(), fill.get('price'),
+AttributeError: 'str' object has no attribute 'get'
+
+-- Order Book Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Opened ---
+-- Order Book Opened ---
+[HEARTBEAT] 2017-10-21 20:26:48.193000+00:00 22343668
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:49.193000+00:00 22343668
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:50.194000+00:00 22343668
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:26:51.194000+00:00 22343668
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[TRADE] Time: 2017-10-21 20:26:51.762000+00:00 Price: 6111.110000 Vol: 0.000002
+[CANDLESTICK 1] Time: 2017-10-21 20:26:00+00:00 Open: 6101.92 High: 6111.11 Low: 6101.92 Close: 6111.11 Vol: 2.3603203399999995
+[INDICATORS 1] Periods: 400 MACD_DIFF: 0.503756 MACD_HIST: 0.737920 MFI: 77.969612
+Traceback (most recent call last):
+  File "gdax-trader.py", line 88, in <module>
+    interface.update_orders(trade_engine)
+  File "C:\Users\Chris\Documents\pythtrader\curses_interface.py", line 63, in update_orders
+    (fill.get('side').upper(), fill.get('price'),
+AttributeError: 'str' object has no attribute 'get'
+
+-- Order Book Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Opened ---
+-- Order Book Opened ---
+[HEARTBEAT] 2017-10-21 20:27:03.197000+00:00 22343672
+Candlestick Closed!
+[CANDLESTICK 1] Time: 2017-10-21 20:26:00+00:00 Open: 6101.92 High: 6105 Low: 6101.92 Close: 6105 Vol: 2.3603187099999996
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:27:04.197000+00:00 22343672
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:27:05.197000+00:00 22343672
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:27:06.198000+00:00 22343672
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:27:07.198000+00:00 22343672
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[HEARTBEAT] 2017-10-21 20:27:08.198000+00:00 22343672
+[BALANCES] USD: 0.00 BTC: 0.00000000
+[TRADE] Time: 2017-10-21 20:27:08.600000+00:00 Price: 6111.110000 Vol: 0.000004
+[CANDLESTICK 1] Time: 2017-10-21 20:27:00+00:00 Open: 6111.11 High: 6111.11 Low: 6111.11 Close: 6111.11 Vol: 3.72e-06
+[INDICATORS 1] Periods: 401 MACD_DIFF: 0.344117 MACD_HIST: 0.555384 MFI: 76.734344
+Traceback (most recent call last):
+  File "gdax-trader.py", line 88, in <module>
+    interface.update_orders(trade_engine)
+  File "C:\Users\Chris\Documents\pythtrader\curses_interface.py", line 63, in update_orders
+    (fill.get('side').upper(), fill.get('price'),
+AttributeError: 'str' object has no attribute 'get'
+
+-- Order Book Closed ---
+-- GDAX Websocket Closed ---
+-- GDAX Websocket Closed ---
